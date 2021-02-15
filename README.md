@@ -7,6 +7,11 @@
     - 다양한 서비스의 <b>웹 개발</b>을 목표로 합니다.
   </em>  
 </p>
+
+### Online Judge 💻
+
+* BOJ: [seuha516](http://icpc.me/seuha516)
+  * solvedac: [seuha516](https://solved.ac/profile/seuha516)
  
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)
 
