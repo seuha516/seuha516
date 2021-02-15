@@ -29,6 +29,6 @@
 
 ### Contact :envelope:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seuha516)](https://www.facebook.com/seuha516) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeon.seungha/)](https://www.instagram.com/data.scientist/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeon.seungha/)](https://www.instagram.com/jeon.seungha/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuha516@gmail.com)](mailto:seuha516@gmail.com)
 
