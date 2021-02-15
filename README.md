@@ -1,7 +1,8 @@
 # SeungHa Jeon
 
-### beginner
-### algorithm
+## beginner
+### >> algorithm
+### >> problem solving
  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=seuha516)](https://solved.ac/seuha516)
 
