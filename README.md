@@ -12,18 +12,20 @@
   </em>  
 </p>
 
-### Online Judge 💻
 
+### Online Judge 💻
 * BOJ: [seuha516](http://icpc.me/seuha516)
   * solvedac: [seuha516](https://solved.ac/profile/seuha516)
  
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)
+
 
 ### Tech Stack :crescent_moon:
 <img src="https://img.shields.io/badge/C++--C44242?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 <!-- [![SeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuha516)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ### Contact :envelope:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seuha516)](https://www.facebook.com/seuha516) 
