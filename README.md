@@ -16,8 +16,8 @@
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)
 
 ### Main Stack
-<image src="https://user-images.githubusercontent.com/79067549/107898993-76872f00-6f80-11eb-95df-57f30347e28f.png">
-<image src="https://user-images.githubusercontent.com/79067549/107898993-76872f00-6f80-11eb-95df-57f30347e28f.png">
+<image src="https://user-images.githubusercontent.com/79067549/107898993-76872f00-6f80-11eb-95df-57f30347e28f.png" height="50">
+<image src="https://user-images.githubusercontent.com/79067549/107898995-77b85c00-6f80-11eb-8a4d-b265c1937fae.png" height="50">
 
 
 
