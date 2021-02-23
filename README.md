@@ -15,9 +15,12 @@
 
 ### Online Judge 💻
 * BOJ: [seuha516](http://icpc.me/seuha516)
-  * solvedac: [seuha516](https://solved.ac/profile/seuha516)
- 
+  * solvedac: [seuha516](https://solved.ac/profile/seuha516)  
+  
+ * Codeforces: [seuha516](https://codeforces.com/profile/seuha516)  
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)
+
+
 
 
 ### Tech Stack :crescent_moon:
