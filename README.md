@@ -24,9 +24,9 @@
 ### Web :memo:
 * Project
   * 1:1 Chess *(2020.05)*: https://chess0seuha516.herokuapp.com/
-  * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemo_Logic/NemoNemo_Logic.html
+  * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemoLogic/NemoNemo_Logic.html
 * Practice
-  * Tic-Tac-Toe *(2020.05)* https://seuha516.github.io/Develop_Practice/TicTacToe/TicTacToe.html
+  * Tic-Tac-Toe *(2020.05)* https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html
 
 ### Tech Stack :crescent_moon:
 <img src="https://img.shields.io/badge/C++--C44242?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
