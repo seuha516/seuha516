@@ -22,10 +22,10 @@
 
 
 ### Web :memo:
-* Project
+* <b>Project</b>
   * 1:1 Chess *(2020.05)*: https://chess0seuha516.herokuapp.com/
   * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html
-* Practice
+* <b>Practice</b>
   * Tic-Tac-Toe *(2020.05)* https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html
 
 ### Tech Stack :crescent_moon:
