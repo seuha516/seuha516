@@ -24,7 +24,7 @@
 ### Web :memo:
 * Project
   * 1:1 Chess *(2020.05)*: https://chess0seuha516.herokuapp.com/
-  * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemoLogic/NemoNemo_Logic.html
+  * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html
 * Practice
   * Tic-Tac-Toe *(2020.05)* https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html
 
