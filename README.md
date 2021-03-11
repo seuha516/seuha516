@@ -25,6 +25,7 @@
 * <b>Project</b>
   * 1:1 Chess *(2020.05)*: https://chess0seuha516.herokuapp.com/
   * NemoNemo Logic Solve *(2020.05)*: https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html
+  * Dutch Treat Calculator *(2021.03)*: https://seuha516.github.io/DutchTreat/DutchTreat.html
 * <b>Practice</b>
   * Tic-Tac-Toe *(2020.05)* https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html
 
