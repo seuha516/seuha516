@@ -16,7 +16,7 @@
 * <b>Practice</b>
   * [Tic-Tac-Toe](https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html) *(2020.05)*
 
-### _Book_ (studied) :scroll:
+### _Book (studied)_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/Algorithm/tree/main/Algospot)
 * [혼자서 공부하는 머신러닝+딥러닝](https://github.com/seuha516/MachineLearningPractice)
 
