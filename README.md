@@ -19,7 +19,7 @@
 
 ### _Book (studied)_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/Algorithm/tree/main/Algospot)
-* [혼자서 공부하는 머신러닝+딥러닝](https://github.com/seuha516/MachineLearningPractice)
+* [혼자 공부하는 머신러닝+딥러닝](https://github.com/seuha516/MachineLearningPractice)
 
 ### _Tech Stack_ :crescent_moon:
 <img src="https://img.shields.io/badge/C++--C44242?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
