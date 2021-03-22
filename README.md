@@ -1,7 +1,7 @@
 # SeungHa Jeon
 ## **Hello world!** :bulb:  
 
-### _Online Judge_ 💻
+### _Problem Solving_ 💻
 * Codeforces: [seuha516](https://codeforces.com/profile/seuha516)  
 * BOJ: [seuha516](http://icpc.me/seuha516)
   * solved.ac: [seuha516](https://solved.ac/profile/seuha516)  
