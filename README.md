@@ -10,7 +10,7 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
-  * [1:1 Chess](https://chess0seuha516.herokuapp.com/) *(2020.05)*
+  * [1:1 Chess](https://chess0seuha516.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
 * <b>Practice</b>
