@@ -1,16 +1,6 @@
 # SeungHa Jeon
 
-## Computer Science and Engineering
-### Hello world! :bulb:
-
-
-<p>
-  <em>
-    - 저는 <b>초보</b> 학생 개발자입니다. :sunny: <br>
-    - <b>알고리즘</b> 문제 풀이에 도전하는 중입니다. :computer: <br>
-    - <b>웹 개발</b>을 공부하고 있습니다. :mag_right:
-  </em>  
-</p>
+## <em>Hello world!<em> :bulb:  
 
 
 ### Online Judge 💻
