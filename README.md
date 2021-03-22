@@ -1,12 +1,11 @@
 # SeungHa Jeon
 
-## <em>Hello world!<em> :bulb:  
-
+## **Hello world!** :bulb:  
 
 ### Online Judge 💻
 * Codeforces: [seuha516](https://codeforces.com/profile/seuha516)  
 * BOJ: [seuha516](http://icpc.me/seuha516)
-  * solvedac: [seuha516](https://solved.ac/profile/seuha516)  
+  * solved.ac: [seuha516](https://solved.ac/profile/seuha516)  
  
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)  
 
