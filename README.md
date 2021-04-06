@@ -13,7 +13,7 @@
 * <b>Project</b>
   * [Digit Prediction](https://digitprediction-client.herokuapp.com/) *(2021.03)* / [client](https://github.com/seuha516/DigitPredcition_client) / [server](https://github.com/seuha516/DigitPrediction_server)
   * [1 to 50](https://seuha516-1to50.herokuapp.com/) *(2021.03)* / [repo](https://github.com/seuha516/1to50)
-  * [1:1 Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
+  * [Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
 * <b>Practice</b>
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
