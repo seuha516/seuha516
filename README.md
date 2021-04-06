@@ -11,8 +11,8 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
-  * [Digit Prediction] *(2021.03)* / [client](https://github.com/seuha516/DigitPredcition_client) / [server](https://github.com/seuha516/DigitPrediction_server)
-  * [1 to 50] *(2021.03)* / [repo](https://github.com/seuha516/1to50)
+  * [Digit Prediction] *(2021.03)* / [FrontEnd] / [BackEnd]
+  * [1 to 50] *(2021.03)* / [FrontEnd] / [BackEnd]
   * [Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
 * <b>Practice</b>
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
