@@ -17,7 +17,7 @@
 * <b>Practice</b>
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
-  * [Tic-Tac-Toe](https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html) *(2020.05)*
+  * [Tic-Tac-Toe](https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/DevelopPractice/tree/main/TicTacToe)
 
 ### _Book (studied)_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/Algorithm/tree/main/Algospot)
