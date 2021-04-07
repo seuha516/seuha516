@@ -11,7 +11,7 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
-  * [Digit Prediction] *(2021.03)* / [FrontEnd] / [BackEnd]
+  * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd/blob/main/README.md) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd/blob/main/README.md)
   * [1 to 50] *(2021.03)* / [FrontEnd] / [BackEnd]
   * [Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
 * <b>Practice</b>
