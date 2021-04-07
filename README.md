@@ -12,7 +12,7 @@
 ### _Web_ :memo:
 * <b>Project</b>
   * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd/blob/main/README.md) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd/blob/main/README.md)
-  * [1 to 50] *(2021.03)* / [FrontEnd] / [BackEnd]
+  * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50_FrontEnd) / [BackEnd](https://github.com/seuha516/1to50_BackEnd)
   * [Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
 * <b>Practice</b>
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
