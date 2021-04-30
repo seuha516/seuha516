@@ -11,6 +11,7 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
+  * [Devlog](https://seungha-devlog.com) *(2021.04)* / [FrontEnd](https://github.com/seuha516/Devlog_FrontEnd) / [BackEnd](https://github.com/seuha516/Devlog_BackEnd)
   * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50_FrontEnd) / [BackEnd](https://github.com/seuha516/1to50_BackEnd)
   * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd)
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
