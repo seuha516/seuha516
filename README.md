@@ -7,7 +7,7 @@
   * solved.ac: [seuha516](https://solved.ac/profile/seuha516)
 * [Repo](https://github.com/seuha516/Algorithm)
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516/)
 
 ### _Web_ :memo:
 * <b>Project</b>
