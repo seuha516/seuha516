@@ -16,7 +16,7 @@
   * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd)
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
-  * [Chess](https://seuha516-chess.herokuapp.com/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
+  * [Chess](https://seungha-devlog-server.xyz:4003/) *(2020.05)* / [repo](https://github.com/seuha516/Chess)
 * <b>Practice</b>
   * [Redux-Saga Timer](https://redux-saga-timer-seuha516.netlify.app/) *(2021.04)* / [repo](https://github.com/seuha516/Redux-Saga-Timer)
   * [Tic-Tac-Toe](https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/DevelopPractice/tree/main/TicTacToe)
