@@ -14,7 +14,7 @@
   * [TodoCampus](https://todocampus.netlify.app/) *(2022.02)* / [FrontEnd](https://github.com/seuha516/TodoCampus_FrontEnd) / [BackEnd](https://github.com/seuha516/TodoCampus_BackEnd)
   * [SimpleChat](https://simplechat-seuha516.netlify.app/) *(2021.06)* / [FrontEnd](https://github.com/seuha516/SimpleChat_FrontEnd) / [BackEnd](https://github.com/seuha516/SimpleChat_BackEnd)
   * [Devlog](https://seungha-devlog.com) *(2021.04)* / [FrontEnd](https://github.com/seuha516/Devlog_FrontEnd) / [BackEnd](https://github.com/seuha516/Devlog_BackEnd)
-  * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50_FrontEnd) / [BackEnd](https://github.com/seuha516/1to50_BackEnd)
+  * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50-react-frontend) / [BackEnd](https://github.com/seuha516/1to50-koa-backend)
   * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd)
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
