@@ -26,7 +26,7 @@
 ### _Book (studied)_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/algorithm/tree/main/Algospot)
 * [혼자 공부하는 머신러닝+딥러닝](https://github.com/seuha516/practice-machine-learning)
-* [리액트를 다루는 기술](https://github.com/seuha516/ReactPractice)
+* [리액트를 다루는 기술](https://github.com/seuha516/practice-react)
 
 ### _Tech Stack_ :crescent_moon:
 <img src="https://img.shields.io/badge/C++--C44242?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
