@@ -5,7 +5,7 @@
 * Codeforces: [seuha516](https://codeforces.com/profile/seuha516)  
 * BOJ: [seuha516](http://icpc.me/seuha516)
   * solved.ac: [seuha516](https://solved.ac/profile/seuha516)
-* [Repo](https://github.com/seuha516/Algorithm)
+* [Repo](https://github.com/seuha516/algorithm)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://solved.ac/seuha516/)
 
