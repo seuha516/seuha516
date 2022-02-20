@@ -20,7 +20,7 @@
   * [NemoNemo Logic Solve](https://seuha516.github.io/nemo-nemo-logic-js/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/nemo-nemo-logic-js)
   * [Chess](https://seungha-devlog-server.xyz:4003/) *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
 * <b>Practice</b>
-  * [Redux-Saga Timer](https://redux-saga-timer-seuha516.netlify.app/) *(2021.04)* / [repo](https://github.com/seuha516/Redux-Saga-Timer)
+  * [Redux-Saga Timer](https://redux-saga-timer-seuha516.netlify.app/) *(2021.04)* / [repo](https://github.com/seuha516/redux-saga-timer-react)
   * [Tic-Tac-Toe](https://seuha516.github.io/practice-develop/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/practice-develop/tree/main/TicTacToe)
 
 ### _Book (studied)_ :scroll:
