@@ -31,5 +31,3 @@
 ### _SNS_ :rocket:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seuha516)](https://www.facebook.com/seuha516) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeon.seungha/)](https://www.instagram.com/jeon.seungha/)  
-
-[![SeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuha516)](https://github.com/anuraghazra/github-readme-stats)
