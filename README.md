@@ -15,7 +15,7 @@
   * [SimpleChat](https://simplechat-seuha516.netlify.app/) *(2021.06)* / [FrontEnd](https://github.com/seuha516/SimpleChat_FrontEnd) / [BackEnd](https://github.com/seuha516/SimpleChat_BackEnd)
   * [Devlog](https://seungha-devlog.com) *(2021.04)* / [FrontEnd](https://github.com/seuha516/devlog-react-frontend) / [BackEnd](https://github.com/seuha516/devlog-express-backend)
   * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50-react-frontend) / [BackEnd](https://github.com/seuha516/1to50-koa-backend)
-  * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/DigitPredcition_FrontEnd) / [BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd)
+  * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/digit-prediction-react-frontend) / [BackEnd](https://github.com/seuha516/digit-prediction-flask-backend)
   * [Dutch Treat Calculator](https://seuha516.github.io/DutchTreat/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/DutchTreat)
   * [NemoNemo Logic Solve](https://seuha516.github.io/NemoNemoLogic/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/NemoNemoLogic)
   * [Chess](https://seungha-devlog-server.xyz:4003/) *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
