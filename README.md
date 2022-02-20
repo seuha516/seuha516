@@ -28,10 +28,6 @@
 * [혼자 공부하는 머신러닝+딥러닝](https://github.com/seuha516/practice-machine-learning)
 * [리액트를 다루는 기술](https://github.com/seuha516/practice-react)
 
-### _Tech Stack_ :crescent_moon:
-<img src="https://img.shields.io/badge/C++--C44242?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
 ### _SNS_ :rocket:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seuha516)](https://www.facebook.com/seuha516) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeon.seungha/)](https://www.instagram.com/jeon.seungha/)  
