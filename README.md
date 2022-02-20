@@ -21,7 +21,7 @@
   * [Chess](https://seungha-devlog-server.xyz:4003/) *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
 * <b>Practice</b>
   * [Redux-Saga Timer](https://redux-saga-timer-seuha516.netlify.app/) *(2021.04)* / [repo](https://github.com/seuha516/Redux-Saga-Timer)
-  * [Tic-Tac-Toe](https://seuha516.github.io/DevelopPractice/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/DevelopPractice/tree/main/TicTacToe)
+  * [Tic-Tac-Toe](https://seuha516.github.io/practice-develop/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/practice-develop/tree/main/TicTacToe)
 
 ### _Book (studied)_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/algorithm/tree/main/Algospot)
