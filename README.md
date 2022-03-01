@@ -11,6 +11,7 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
+  * [Pokedex](https://pokedex-seuha516.netlify.app/) *(2022.03)* / [FrontEnd](https://github.com/seuha516/pokedex-react-frontend) / [BackEnd](https://github.com/seuha516/pokedex-spring-backend) / [Crawler](https://github.com/seuha516/pokedex-python-crawler)
   * [TodoCampus](https://todocampus.netlify.app/) *(2022.02)* / [FrontEnd](https://github.com/seuha516/todo-campus-react-frontend) / [BackEnd](https://github.com/seuha516/todo-campus-django-backend)
   * [SimpleChat](https://simplechat-seuha516.netlify.app/) *(2021.06)* / [FrontEnd](https://github.com/seuha516/simplechat-react-frontend) / [BackEnd](https://github.com/seuha516/simplechat-express-backend)
   * [Devlog](https://seungha-devlog.com) *(2021.04)* / [FrontEnd](https://github.com/seuha516/devlog-react-frontend) / [BackEnd](https://github.com/seuha516/devlog-express-backend)
