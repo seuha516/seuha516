@@ -15,7 +15,7 @@
   * [Pokedex](https://pokedex-seuha516.netlify.app/) *(2022.03)* / [FrontEnd](https://github.com/seuha516/pokedex-react-frontend) / [BackEnd](https://github.com/seuha516/pokedex-spring-backend) / [Crawler](https://github.com/seuha516/pokedex-python-crawler)
   * [TodoCampus](https://todocampus.netlify.app/) *(2022.02)* / [FrontEnd](https://github.com/seuha516/todo-campus-react-frontend) / [BackEnd](https://github.com/seuha516/todo-campus-django-backend)
   * [SimpleChat](https://simplechat-seuha516.netlify.app/) *(2021.06)* / [FrontEnd](https://github.com/seuha516/simplechat-react-frontend) / [BackEnd](https://github.com/seuha516/simplechat-express-backend)
-  * [Devlog](https://seungha-devlog.com) *(2021.04)* / [FrontEnd](https://github.com/seuha516/devlog-react-frontend) / [BackEnd](https://github.com/seuha516/devlog-express-backend)
+  * [Devlog](https://devlog-seungha.netlify.app/) *(2021.04)* / [FrontEnd](https://github.com/seuha516/devlog-react-frontend) / [BackEnd](https://github.com/seuha516/devlog-express-backend)
   * [1 to 50](https://1to50-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/1to50-react-frontend) / [BackEnd](https://github.com/seuha516/1to50-koa-backend)
   * [Digit Prediction](https://digit-prediction-seuha516.netlify.app/) *(2021.03)* / [FrontEnd](https://github.com/seuha516/digit-prediction-react-frontend) / [BackEnd](https://github.com/seuha516/digit-prediction-flask-backend)
   * [Dutch Treat Calculator](https://seuha516.github.io/dutch-treat-js/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/dutch-treat-js)
