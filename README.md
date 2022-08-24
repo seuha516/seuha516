@@ -11,6 +11,7 @@
 
 ### _Web_ :memo:
 * <b>Project</b>
+  * [Tactic On Table](https://tactic-on-table.netlify.app/) *(2022.08)* / [FrontEnd](https://github.com/seuha516/tactic-on-table-react-frontend) / [BackEnd](https://github.com/seuha516/tactic-on-table-django-backend)
   * [Plming](https://plming.netlify.app/) *(2022.04)* / [Github](https://github.com/seuha516/Plming) / [Frontend](https://github.com/pgrm-study-website/Frontend)
   * [Pokedex](https://pokedex-seuha516.netlify.app/) *(2022.03)* / [FrontEnd](https://github.com/seuha516/pokedex-react-frontend) / [BackEnd](https://github.com/seuha516/pokedex-spring-backend) / [Crawler](https://github.com/seuha516/pokedex-python-crawler)
   * [TodoCampus](https://todocampus.netlify.app/) *(2022.02)* / [FrontEnd](https://github.com/seuha516/todo-campus-react-frontend) / [BackEnd](https://github.com/seuha516/todo-campus-django-backend)
