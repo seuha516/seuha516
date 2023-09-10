@@ -8,7 +8,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://icpc.me/seuha516)
 
-### _Web_ :memo:
+### _Web_ :memo: (Server is closed now)
 * <b>Project</b>
   * [Tactic On Table](https://tactic-on-table.netlify.app/) *(2022.08)* / [FrontEnd](https://github.com/seuha516/tactic-on-table-react-frontend) / [BackEnd](https://github.com/seuha516/tactic-on-table-django-backend)
   * [Plming](https://plming.netlify.app/) *(2022.04)* / [Github](https://github.com/seuha516/Plming) / [Frontend](https://github.com/pgrm-study-website/Frontend)
@@ -30,7 +30,3 @@
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/algorithm/tree/main/Algospot)
 * [혼자 공부하는 머신러닝+딥러닝](https://github.com/seuha516/practice-machine-learning)
 * [리액트를 다루는 기술](https://github.com/seuha516/practice-react)
-
-### _SNS_ :rocket:
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seuha516)](https://www.facebook.com/seuha516) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jeon.seungha/)](https://www.instagram.com/jeon.seungha/)  
