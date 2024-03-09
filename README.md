@@ -10,8 +10,11 @@
 
 ### _Web_ :memo: (Server is closed now)
 * <b>Project</b>
+  * Stable diffusion playground *(2023.12)* / [repo](https://github.com/seuha516/stable-diffusion-playground)
+  * Fitogether *(2022.12)* / [repo](https://github.com/seuha516/fitogether)
+  * Get your perfect selfies *(2022.12)* / [repo](https://github.com/seuha516/SNU_CV_2022_Team7)
   * [Tactic On Table](https://tactic-on-table.netlify.app/) *(2022.08)* / [FrontEnd](https://github.com/seuha516/tactic-on-table-react-frontend) / [BackEnd](https://github.com/seuha516/tactic-on-table-django-backend)
-  * [Plming](https://plming.netlify.app/) *(2022.04)* / [Github](https://github.com/seuha516/Plming) / [Frontend](https://github.com/pgrm-study-website/Frontend)
+  * Plming *(2022.04)* / [Github](https://github.com/seuha516/Plming) / [Frontend](https://github.com/pgrm-study-website/Frontend)
   * [Pokedex](https://pokedex-seuha516.netlify.app/) *(2022.03)* / [FrontEnd](https://github.com/seuha516/pokedex-react-frontend) / [BackEnd](https://github.com/seuha516/pokedex-spring-backend) / [Crawler](https://github.com/seuha516/pokedex-python-crawler)
   * [TodoCampus](https://todocampus.netlify.app/) *(2022.02)* / [FrontEnd](https://github.com/seuha516/todo-campus-react-frontend) / [BackEnd](https://github.com/seuha516/todo-campus-django-backend)
   * [SimpleChat](https://simplechat-seuha516.netlify.app/) *(2021.06)* / [FrontEnd](https://github.com/seuha516/simplechat-react-frontend) / [BackEnd](https://github.com/seuha516/simplechat-express-backend)
@@ -23,7 +26,7 @@
   * [Redux-Saga Timer](https://redux-saga-timer-seuha516.netlify.app/) *(2021.04)* / [repo](https://github.com/seuha516/redux-saga-timer-react)
   * [Dutch Treat Calculator](https://seuha516.github.io/dutch-treat-js/DutchTreat.html) *(2021.03)* / [repo](https://github.com/seuha516/dutch-treat-js)
   * [NemoNemo Logic Solve](https://seuha516.github.io/nemo-nemo-logic-js/NemoNemoLogic.html) *(2020.05)* / [repo](https://github.com/seuha516/nemo-nemo-logic-js)
-  * [Chess](https://swpp2022sample-seuha516.shop:4003/) *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
+  * [Chess](https://seungha.store:4003/) *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
   * [Tic-Tac-Toe](https://seuha516.github.io/practice-develop/TicTacToe/TicTacToe.html) *(2020.05)* / [repo](https://github.com/seuha516/practice-develop/tree/main/TicTacToe)
 
 ### _Book (studied)_ :scroll:
