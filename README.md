@@ -8,8 +8,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seuha516)](https://icpc.me/seuha516)
 
-### _Web Project_ :memo:
+### _Project_ :memo:
+* **Stable Diffusion Playground** *(2023.12)* / [repo](https://github.com/seuha516/stable-diffusion-playground)
 * **Fitogether** *(2022.12)* / [repo](https://github.com/seuha516/fitogether)
+* **Get Your Perfect Selfies** *(2022.12)* / [repo](https://github.com/seuha516/SNU_CV_2022_Team7)
 * **[Tactic On Table](https://tactic-on-table.netlify.app/)** *(2022.08)* / [FrontEnd](https://github.com/seuha516/tactic-on-table-react-frontend) / [BackEnd](https://github.com/seuha516/tactic-on-table-django-backend)
 * **Plming** *(2022.04)* / [Github](https://github.com/seuha516/Plming) / [Frontend](https://github.com/pgrm-study-website/Frontend)
 * **[Pokedex](https://pokedex-seuha516.netlify.app/)** *(2022.03)* / [FrontEnd](https://github.com/seuha516/pokedex-react-frontend) / [BackEnd](https://github.com/seuha516/pokedex-spring-backend) / [Crawler](https://github.com/seuha516/pokedex-python-crawler)
@@ -24,10 +26,6 @@
 * **[NemoNemo Logic Solve](https://seuha516.github.io/nemo-nemo-logic-js/NemoNemoLogic.html)** *(2020.05)* / [repo](https://github.com/seuha516/nemo-nemo-logic-js)
 * **[Chess](https://seungha.store:4003/)** *(2020.05)* / [repo](https://github.com/seuha516/chess-js)
 * **[Tic-Tac-Toe](https://seuha516.github.io/practice-develop/TicTacToe/TicTacToe.html)** *(2020.05)* / [repo](https://github.com/seuha516/practice-develop/tree/main/TicTacToe)
-
-### _Other Project_ :memo:
-* **Stable Diffusion Playground** *(2023.12)* / [repo](https://github.com/seuha516/stable-diffusion-playground)
-* **Get Your Perfect Selfies** *(2022.12)* / [repo](https://github.com/seuha516/SNU_CV_2022_Team7)
 
 ### _Study_ :scroll:
 * [알고리즘 문제 해결 전략](https://github.com/seuha516/algorithm/tree/main/Algospot)
